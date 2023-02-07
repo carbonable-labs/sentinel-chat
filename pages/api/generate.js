@@ -11,7 +11,7 @@ const openai = new OpenAIApi(configuration);
 
 const generateAction = async (req, res) => {
 
-
+// prompt pre setup
   const secondPrompt = 
     `
     source: https://carbonable.io/
