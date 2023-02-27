@@ -87,10 +87,10 @@ const Carbzai = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Ask Carbonable about anti greenwashing contribution</h1>
+            <h1>Ask Carbonable</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Discuss RSE topics, to understand how could pragmatism approach helps ask anything about climate change (ex: how carbon credit process could help fighting climate change when executed correctly ?) </h2>
+            <h2>Discuss RSE topics with openAI trained on Carbonable. Obj is to understand how Carbonable works & how could pragmatism approach helps fightinh climate change without greenwashing (ex: how carbon credit process could help fighting climate change when executed correctly ?) </h2>
           </div>
         </div>
 
